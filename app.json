@@ -1,7 +1,7 @@
 {
   "name": "Iᴠᴀɴ Sᴛʀɪɴɢ Gᴇɴᴇʀᴀᴛᴏʀ Bᴏᴛ",
   "description": "A Telegram bot to generate Pyrogram & Telethon string sessions.",
-  "repository": "  "https://github.com/Ahad611/Ivan-String-Session-Generator-Bot",
+  "repository":"https://github.com/Ahad611/Ivan-String-Session-Generator-Bot",
   "keywords": ["telegram", "bot", "string-session", "pyrogram", "telethon"],
   "env": {
     "API_ID": {
