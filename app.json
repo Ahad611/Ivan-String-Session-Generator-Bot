@@ -1,0 +1,48 @@
+  "name": "IVAN STRING GEN",
+  "description": "Telegram bot deployed on Heroku",
+  "https://github.com/Ahad611/Ivan-string-generator",
+  "keywords": ["telegram", "bot", "python", "heroku"],
+  "env": {
+    "API_ID": {
+      "description": "Your Telegram API ID from https://my.telegram.org",
+      "value": "22657083"
+    },
+    "API_HASH": {
+      "description": "Your Telegram API Hash from https://my.telegram.org",
+      "value": "d6186691704bd901bdab275ceaab88f3"
+    },
+    "BOT_TOKEN": {
+      "description": "Your bot token from BotFather",
+      "value": ""
+    },
+    "ADMIN": {
+      "description": "Telegram user ID of the bot admin",
+      "value": "-1002653606597"
+    },
+    "LOG_CHANNEL": {
+      "description": "Channel ID for logs (must be a Telegram channel where bot is admin)",
+      "value": ""
+    },
+    "DB_URI": {
+      "description": "MongoDB connection URI",
+      "value": "mongodb+srv://ahad0181888:ahad0181888@cluster0.f9casz0.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+    },
+    "DB_NAME": {
+      "description": "Name of your MongoDB database",
+      "value": "Ahad"
+    },
+    "IS_FSUB": {
+      "description": "Enable Force Subscribe? Set to True or False",
+      "value": "False"
+    },
+    "AUTH_CHANNEL": {
+      "description": "Telegram channel IDs allowed to use the bot (space-separated for multiple)",
+      "value": "-1002653606597"
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ]
+}
