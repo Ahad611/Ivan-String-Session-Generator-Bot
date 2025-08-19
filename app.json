@@ -1,44 +1,32 @@
-{  
-"name": "Iᴠᴀɴ Sᴛʀɪɴɢ Gᴇɴᴇʀᴀᴛᴏʀ Bᴏᴛ",
-  "description": "Telegram bot deployed on Heroku",
-  "https://github.com/Ahad611/Ivan-String-Session-Generator-Bot",
-  "keywords": ["telegram", "bot", "python", "heroku"],
+{
+  "name": "Iᴠᴀɴ Sᴛʀɪɴɢ Gᴇɴᴇʀᴀᴛᴏʀ Bᴏᴛ",
+  "description": "A Telegram bot to generate Pyrogram & Telethon string sessions.",
+  "repository": "  "https://github.com/Ahad611/Ivan-String-Session-Generator-Bot",
+  "keywords": ["telegram", "bot", "string-session", "pyrogram", "telethon"],
   "env": {
     "API_ID": {
       "description": "Your Telegram API ID from https://my.telegram.org",
-      "value": "22657083"
+      "value": ""
     },
     "API_HASH": {
       "description": "Your Telegram API Hash from https://my.telegram.org",
-      "value": "d6186691704bd901bdab275ceaab88f3"
+      "value": ""
     },
     "BOT_TOKEN": {
-      "description": "Your bot token from BotFather",
+      "description": "Your bot token from @BotFather",
       "value": ""
     },
-    "ADMIN": {
-      "description": "Telegram user ID of the bot admin",
-      "value": "-1002653606597"
-    },
-    "LOG_CHANNEL": {
-      "description": "Channel ID for logs (must be a Telegram channel where bot is admin)",
+    "OWNER_ID": {
+      "description": "Telegram user ID of the bot owner (for broadcast/admin commands)",
       "value": ""
     },
-    "DB_URI": {
-      "description": "MongoDB connection URI",
-      "value": "mongodb+srv://ahad0181888:ahad0181888@cluster0.f9casz0.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+    "F_SUB": {
+      "description": "Force Subscribe channel link (example: https://t.me/YourChannel)",
+      "value": ""
     },
-    "DB_NAME": {
-      "description": "Name of your MongoDB database",
-      "value": "Ahad"
-    },
-    "IS_FSUB": {
-      "description": "Enable Force Subscribe? Set to True or False",
-      "value": "False"
-    },
-    "AUTH_CHANNEL": {
-      "description": "Telegram channel IDs allowed to use the bot (space-separated for multiple)",
-      "value": "-1002653606597"
+    "MONGO_DB_URI": {
+      "description": "Your MongoDB connection URI for storing user data",
+      "value": ""
     }
   },
   "buildpacks": [
