@@ -53,7 +53,8 @@ async def generate_session(bot: Client, msg: Message, telethon=False, is_bot: bo
                 return
             key = InlineKeyboardMarkup(
                 [[
-                    InlineKeyboardButton("Jᴏɪɴ Iᴠᴀɴ ᴄʜᴀɴɴᴇʟ", url=invite_link.invite_link),
+              
+InlineKeyboardButton("Jᴏɪɴ Iᴠᴀɴ ᴄʜᴀɴɴᴇʟ",url=invite_link.invite_link),
                     InlineKeyboardButton("🍀 Check Again 🍀", callback_data="chk")
                 ]]
             ) 
