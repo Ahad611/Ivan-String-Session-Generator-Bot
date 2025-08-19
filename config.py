@@ -8,7 +8,7 @@ API_HASH = environ.get("API_HASH", "f700ddb0930acfab095b00911a2e6f3a")
 BOT_TOKEN = environ.get("BOT_TOKEN", "")
 
 # Owner ID For Broadcasting 
-OWNER_ID = int(environ.get("OWNER_ID", "")) # Owner Id or Admin Id
+OWNER_ID = int(environ.get("OWNER_ID", "8195241636")) # Owner Id or Admin Id
 
 # Give Your Force Join to update Channel Id Below And Make Bot Admin With Full Right.
 F_SUB = environ.get("F_SUB", "https://t.me/Botsxupdate")
