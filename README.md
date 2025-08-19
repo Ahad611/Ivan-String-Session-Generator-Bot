@@ -1,29 +1,29 @@
-## VJ String Session Generator Bot 
+## Iᴠᴀɴ Sᴛʀɪɴɢ Gᴇɴᴇʀᴀᴛᴏʀ Bᴏᴛ 
  
-### Features
+`### Fᴇᴀᴛᴜʀᴇs
 
-- <b>Generate Pyrogram Session
-- Generate Pyrogram Bot Session
-- Generate Telethon Session
-- Generate Telethon Bot Session
-- Can Add Force Subscribe Channel
-- Can Broadcast Message To Users</b>
+- <ʙ>Gᴇɴᴇʀᴀᴛᴇ Pʏʀᴏɢʀᴀᴍ Sᴇssɪᴏɴ
+- Gᴇɴᴇʀᴀᴛᴇ Pʏʀᴏɢʀᴀᴍ Bᴏᴛ Sᴇssɪᴏɴ
+- Gᴇɴᴇʀᴀᴛᴇ Tᴇʟᴇᴛʜᴏɴ Sᴇssɪᴏɴ
+- Gᴇɴᴇʀᴀᴛᴇ Tᴇʟᴇᴛʜᴏɴ Bᴏᴛ Sᴇssɪᴏɴ
+- Cᴀɴ Aᴅᴅ Fᴏʀᴄᴇ Sᴜʙsᴄʀɪʙᴇ Cʜᴀɴɴᴇʟ
+- Cᴀɴ Bʀᴏᴀᴅᴄᴀsᴛ Mᴇssᴀɢᴇ Tᴏ Usᴇʀs
 
-### Commands
+### Cᴏᴍᴍᴀɴᴅs
 
-- <b>`/start` - check bot is alive or not
-- `/generate` - generate a string session 
-- `/broadcast` - broadcast a message to all bot users (owner only)</b>
+- <ʙ>/sᴛᴀʀᴛ - ᴄʜᴇᴄᴋ ʙᴏᴛ ɪs ᴀʟɪᴠᴇ ᴏʀ ɴᴏᴛ
+- /ɢᴇɴᴇʀᴀᴛᴇ - ɢᴇɴᴇʀᴀᴛᴇ ᴀ sᴛʀɪɴɢ sᴇssɪᴏɴ 
+- /ʙʀᴏᴀᴅᴄᴀsᴛ - ʙʀᴏᴀᴅᴄᴀsᴛ ᴀ ᴍᴇssᴀɢᴇ ᴛᴏ ᴀʟʟ ʙᴏᴛ ᴜsᴇʀs (ᴏᴡɴᴇʀ ᴏɴʟʏ)
 
-###  Variables
+###  Vᴀʀɪᴀʙʟᴇs
 
-- <b>`API_ID` - Get your Api Id from [my.telegram.org](https://my.telegram.org/apps)
-- `API_HASH` - Get your Api Hash from [my.telegram.org](https://my.telegram.org/apps)
-- `BOT_TOKEN` - Get your Bot Token from [@BotFather](https://t.me/BotFather)
-- `OWNER_ID` - Owner id of owner for broadcasting
-- `F_SUB` - Optional, Your Force Subscribe Channel Id & Make Bot Admin Here In This Channel 
-- `MONGO_DB_URI` - Get mongodb database uri from [MongoDB](https://mongodb.com) Watch [Video Tutorial](https://youtu.be/DAHRmFdw99o)</b>
+- <ʙ>API_ID - Gᴇᴛ ʏᴏᴜʀ Aᴘɪ Iᴅ ғʀᴏᴍ ᴍʏ.ᴛᴇʟᴇɢʀᴀᴍ.ᴏʀɢ
+- API_HASH - Gᴇᴛ ʏᴏᴜʀ Aᴘɪ Hᴀsʜ ғʀᴏᴍ ᴍʏ.ᴛᴇʟᴇɢʀᴀᴍ.ᴏʀɢ
+- BOT_TOKEN - Gᴇᴛ ʏᴏᴜʀ Bᴏᴛ Tᴏᴋᴇɴ ғʀᴏᴍ @BᴏᴛFᴀᴛʜᴇʀ
+- OWNER_ID - Oᴡɴᴇʀ ɪᴅ ᴏғ ᴏᴡɴᴇʀ ғᴏʀ ʙʀᴏᴀᴅᴄᴀsᴛɪɴɢ
+- F_SUB - Oᴘᴛɪᴏɴᴀʟ, Yᴏᴜʀ Fᴏʀᴄᴇ Sᴜʙsᴄʀɪʙᴇ Cʜᴀɴɴᴇʟ Iᴅ & Mᴀᴋᴇ Bᴏᴛ Aᴅᴍɪɴ Hᴇʀᴇ Iɴ Tʜɪs Cʜᴀɴɴᴇʟ 
+- MONGO_DB_URI - Gᴇᴛ ᴍᴏɴɢᴏᴅʙ ᴅᴀᴛᴀʙᴀsᴇ Uʀɪ ғʀᴏᴍ MᴏɴɢᴏDB 
 
-## Credits
+# Cʀᴇᴅɪᴛ 
 
-- <b>[Tech VJ](https://youtube.com/@Tech_VJ)</b>
+ - 𝐼 ꪜ ꪖ ꪀ`
