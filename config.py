@@ -11,7 +11,7 @@ BOT_TOKEN = environ.get("BOT_TOKEN", "")
 OWNER_ID = int(environ.get("OWNER_ID", "8195241636")) # Owner Id or Admin Id
 
 # Give Your Force Join to update Channel Id Below And Make Bot Admin With Full Right.
-F_SUB = environ.get("F_SUB", "https://t.me/Botsxupdate")
+F_SUB = environ.get("F_SUB", "https://t.me/IvanxNisha")
 
 # Mongodb Database Uri For User Data Store 
 MONGO_DB_URI = environ.get("MONGO_DB_URI", "mongodb+srv://ahaan:ahaad@ahaan.hgkeruq.mongodb.net/?retryWrites=true&w=majority&appName=ahaan")
