@@ -1,6 +1,6 @@
   "name": "IVAN STRING GEN",
   "description": "Telegram bot deployed on Heroku",
-  "https://github.com/Ahad611/Ivan-string-generator",
+  "https://github.com/Ahad611/Ivan-String-Session-Generator-Bot",
   "keywords": ["telegram", "bot", "python", "heroku"],
   "env": {
     "API_ID": {
